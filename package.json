@@ -1,4 +1,15 @@
 {
+  "expo": {
+    "name": "Farmacia",
+    "description": "App localizadora de farmacias de turno chile",
+   "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  },
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
